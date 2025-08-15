@@ -49,4 +49,4 @@ Hi! My name is Maya.
 <br>
 
 
-<button id="ConfettiButton">"Click if you love math!</button>
+<button id="confettiButton">"Click if you love math!</button>
