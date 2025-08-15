@@ -54,4 +54,4 @@ Hi! My name is Maya.
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
 <p style="color: #cf6182ff;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #bab0b3ff; text-decoration: underline;">Socials</a></p>
-<button>"Yea or Nay?"</button>
+<button>"Click if you love math!"</button>
