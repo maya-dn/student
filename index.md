@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm Maya
 hide: true
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Maya
 
 ### Development Environment
 
@@ -52,3 +52,5 @@ Hi! My name is [Your Full Name]
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+
+<button id="confettiButton">Click if you love math!</button> 
