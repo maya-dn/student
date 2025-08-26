@@ -5,48 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
-
-Here are some places I have lived.
-
-<comment>
-Flags are made using Wikipedia images
-</comment>
-
-<style>
-    /* Style looks pretty compact, 
-       - grid-container and grid-item are referenced the code 
-    */
-    .grid-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Dynamic columns */
-        gap: 10px;
-    }
-    .grid-item {
-        text-align: center;
-    }
-    .grid-item img {
-        width: 100%;
-        height: 100px; /* Fixed height for uniformity */
-        object-fit: contain; /* Ensure the image fits within the fixed height */
-    }
-    .grid-item p {
-        margin: 5px 0; /* Add some margin for spacing */
-    }
-
-    .image-gallery {
-        display: flex;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        gap: 10px;
-        }
-
-    .image-gallery img {
-        max-height: 150px;
-        object-fit: cover;
-        border-radius: 5px;
-    }
-</style>
+## Where I'm From!
 
 <!-- This grid_container class is used by CSS styling and the id is used by JavaScript connection -->
 <div class="grid-container" id="grid_container">
@@ -60,10 +19,7 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
-        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
+        {"flag": "0/01/Flag_of_California.svg", "description": "California - for the rest of my life hopefully"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -99,40 +55,190 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+My life
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- Elementary school until second grade in New Jersey
+- Moved to California, San Diego, before the start of 3rd grade and have been here since
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+My family includes my mom and dad, and my two youner brothers, age 13 and 9. My parents were both born in the Soviet Union and lived there for 20 years before moving to the middle east for another 20 years and finally settling in the United States.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+### My City
 
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
-<div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
-</div>
+I love visiting La Jolla cove and seeing the sea lions!
+
+<img src="https://fox5sandiego.com/wp-content/uploads/sites/15/2023/04/AdobeStock_284439394.jpeg?w=2560&h=1440&crop=1" alt="My favorite place"> 
+
+<h4 id="-evaluation-matrix">📊 Evaluation Matrix</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Mastered (N)</th>
+      <th>Self Rank (1-5)</th>
+      <th>Peer Rank (1-5)</th>
+      <th>Teacher Rank (1-5)</th>
+      <th>Average</th>
+      <th>Notes/Evidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎯 Core Behaviors</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Attendance</td>
+      <td>[ ]</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Work Habits</td>
+      <td>[ ]</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Behavior</td>
+      <td>[ ]</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Timeliness</td>
+      <td>[ ]</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>💻 Technical Skills</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Tech/Cyber Sense</td>
+      <td>[ ]</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Tech/Cyber Talk</td>
+      <td>[ ]</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Tech Growth</td>
+      <td>[ ]</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>🤝 Collaboration</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Advocacy</td>
+      <td>[ ]</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Communication &amp; Collab</td>
+      <td>[ ]</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>🎨 Professional Skills</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Integrity</td>
+      <td>[ ]</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Organization</td>
+      <td>[ ]</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>📈 TOTALS</strong></td>
+      <td> </td>
+      <td><strong>40</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0</strong></td>
+      <td><strong>0.0</strong></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>🎯 AVERAGE SCORE</strong></td>
+      <td> </td>
+      <td><strong>3.64</strong></td>
+      <td><strong>0.0</strong></td>
+      <td><strong>0.0</strong></td>
+      <td><strong>0.0</strong></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+[def]: ic_of_family.jp
