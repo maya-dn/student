@@ -11,14 +11,14 @@ permalink: /blogs/
   body {
     background: linear-gradient(135deg, #ffe6f2 0%, #fff0f8 50%, #ffeaf7 100%);
     font-family: 'Poppins', sans-serif;
-    color: #4a0033;
+    color: #1b0213ff;
     line-height: 1.8;
     padding: 1rem;
   }
 
   h1, h2, h3 {
-    color: #d63384;
-    text-shadow: 1px 1px #ffe6f2;
+    color: #65153dff;
+    text-shadow: 1px 1px #b77d99ff;
   }
 
   h1 {
