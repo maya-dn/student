@@ -61,6 +61,8 @@ permalink: /blogs/
     padding: 1.25rem 1.5rem;
     border-radius: 1rem;
     border: 1px solid #ffcce6;
+    color: #1a0f14; /* Dark text inside lists */
+
   }
 
   li {
