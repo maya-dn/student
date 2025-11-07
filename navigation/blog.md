@@ -114,7 +114,7 @@ permalink: /blogs/
 
 # 🌸 Maya's CSP Adventures 🌸
 
-Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. 
+Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. At the beginning of the trimester, I was quiet and unsure of my skills, afraid to branch out of my comfort zone, and closed off. Now, I am a lot more open to collaboration with others and don't want to do everything on my own. 
 
 <hr>
 
@@ -159,12 +159,22 @@ Digital famine was a great learning experience in terms of team organization, as
 </div>
 
 <div class="section">
+<h2>N@TM</h2>
+
+<p>
+Night at the museum was a wonderful experience where we were able to get feedback on what we have been working on for so long! I loved getting to interact and show off our project to people who are interested in it. I appreciated the comments which gave us feedback in addition to anything else, because it will help us in the future to create a better game.   
+</p>
+</div>
+
+
+<div class="section">
 <h2>Looking Ahead</h2>
 
 <p>
 In the upcoming trimesters, I would love to explore more regarding coding using AI and how to be stronger in prompt writing to make my code cohesive and effective/efficient. I struggled a lot during Digital Famine to keep up with my groupmates, who knew a lot more than I did, and I want to fill that gap. In order to do this, I must learn more about JS and Python, as well as using Copilot and other AI's to help me write code for things like games, algorithms, or other systems.  
 </p>
 </div>
+
 
 <div class="section mcq">
 <h2>🧠 MCQ</h2>
