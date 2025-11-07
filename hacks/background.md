@@ -33,7 +33,7 @@ permalink: /background
 
   function startGameWorld() {
     if (imagesLoaded < 2) return;
-
+// this part creates the game objects, including the spaceship
     class GameObject {
       constructor(image, width, height, x = 0, y = 0, speedRatio = 0) {
         this.image = image;
@@ -49,7 +49,7 @@ permalink: /background
         ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
       }
     }
-
+//this creats the size of the background
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
@@ -74,6 +74,7 @@ permalink: /background
         this.baseY = y;
         this.frame = 0;
       }
+      //i believe the following line contributes to the oscillation of the spaceship on the background
       update() {
         this.y = this.baseY + Math.sin(this.frame * 0.05) * 20;
         this.frame++;
