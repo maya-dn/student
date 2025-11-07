@@ -37,6 +37,7 @@ permalink: /blogs/
 
   p {
     margin-top: 0.75rem;
+    color: #1a0f14; /* Dark text for main content */
   }
 
   .section {
