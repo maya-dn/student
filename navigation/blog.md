@@ -1,90 +1,201 @@
 ---
-layout: blogs 
-title: Blogs
-search_exclude: true
-permalink: /blogs/
----
----
-layout: blogs 
-title: Blogs
+layout: blogs
+title: "Maya's CSP Adventures"
 search_exclude: true
 permalink: /blogs/
 ---
 
-# Maya's CSP Adventures
+<style>
+  /* 🌸 Soft Pink Themed Blog Styling 🌸 */
+
+  body {
+    background: linear-gradient(135deg, #ffe6f2 0%, #fff0f8 50%, #ffeaf7 100%);
+    font-family: 'Poppins', sans-serif;
+    color: #4a0033;
+    line-height: 1.8;
+    padding: 1rem;
+  }
+
+  h1, h2, h3 {
+    color: #d63384;
+    text-shadow: 1px 1px #ffe6f2;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: 700;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+    margin-top: 2rem;
+    border-left: 6px solid #ff99cc;
+    padding-left: 0.75rem;
+  }
+
+  p {
+    margin-top: 0.75rem;
+  }
+
+  .section {
+    background-color: #fff0f6;
+    border: 1px solid #ffb6d9;
+    border-radius: 1.5rem;
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    box-shadow: 0 6px 10px rgba(255, 182, 193, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .section:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 14px rgba(255, 105, 180, 0.4);
+  }
+
+  ul {
+    margin-top: 1rem;
+    background: #fff;
+    padding: 1.25rem 1.5rem;
+    border-radius: 1rem;
+    border: 1px solid #ffcce6;
+  }
+
+  li {
+    margin-bottom: 0.75rem;
+  }
+
+  code {
+    background: #ffe6f2;
+    padding: 0.2rem 0.4rem;
+    border-radius: 5px;
+    color: #b30059;
+  }
+
+  strong {
+    color: #b30059;
+  }
+
+  em {
+    color: #d94f9d;
+  }
+
+  a {
+    color: #ff69b4;
+    text-decoration: underline dotted;
+  }
+
+  a:hover {
+    color: #d63384;
+  }
+
+  hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, #ffb6d9, #ffe6f2);
+    margin: 2rem 0;
+    border-radius: 2px;
+  }
+
+  .mcq {
+    background: #fff;
+    border: 2px dashed #ffb6d9;
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
+
+  .pink-highlight {
+    background-color: #ffe6f2;
+    padding: 0.25rem 0.4rem;
+    border-radius: 0.4rem;
+  }
+</style>
+
+# 🌸 Maya's CSP Adventures 🌸
 
 Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. 
 
-## Sprint 1: Tools and Equipment
+<hr>
 
+<div class="section">
+<h2>🚀 Sprint 1: Tools and Equipment</h2>
+
+<p>
 In sprint one, I struggled a lot to keep up and configure my tools, as I was working with an extremely old and slow chromebook. It took me several weeks of trial and error to figure out my repositories, accounts, and coding. I was pretty quiet and didn't speak up or ask for help much because I didn't feel as though I was going to be able to suceed in this class.
+</p>
 
+<p>
 Our first real project was to create the tool setup game. My team's design for our tool setup game was a western adventure RPG-style MCQ. We created three different sections in our repository, those which encompass all the types such as Mac, Windows, and Kasm. I was in charge of Kasm because I was most familiar with it at the time. Now I am most familiar with Windows. 
+</p>
 
+<p>
 After the tools setup game quest, My initial team moved onto working on hacks created by CSA students. Cyrus and I worked on two hacks, those being Pong and Rock Paper Scissors. These games gave us trouble because they were extremely involved and took quite a while to digest the instructions and execute them. Throughout this process, I became very familiar to using tools, like AI, to assist in my coding process. 
+</p>
+</div>
 
-## Sprint 2: Big Idea #3
+<div class="section">
+<h2>💡 Sprint 2: Big Idea #3</h2>
 
+<p>
 During Big Idea 3, our entire class came together and worked on videos and creating lessons in order to guide each other through the coding process. We learned about basics such as boolean variables, strings, algorithmic efficiency, and other tools in coding that help our code run. I was in charge of the mathematical expressions lesson, where I taught about the different mathematical symbols and operations, as well as how to use and evaluate them. I was the first to present and was able to take that lead and do so because I started to feel more confident in my knowledge. 
+</p>
 
+<p>
 During the other presentations, I gathered coding knowledge through the hacks created by the other teams and completed them all to the best of my ability. I found the hacks really fun and educational, and I liked how we were able to spread knowledge to each other.
+</p>
+</div>
 
-## Sprint 3: Digital Famine
+<div class="section">
+<h2>🪐 Sprint 3: Digital Famine</h2>
 
+<p>
 Digital Famine was our big project for Night at the Museum. My team and I were responsible for doing the homepage and the end module. I worked on creating sprites as well as team management throughout the rest of the teams, and occasional coding here and there, such as creating the inspiration for submodule three. I would talk to all the other planet teams and coordinate the different things we had to achieve together. This is when I began to branch out and feel comfortable with being in CSP, and felt like people were here to back me and I was there for them. 
+</p>
 
+<p>
 Digital famine was a great learning experience in terms of team organization, as well as coding and technical skills. I learned a lot about different files and where they should be placed in. 
+</p>
+</div>
 
-## MCQ
+<div class="section">
+<h2>Looking Ahead</h2>
 
-Questions:
+<p>
+In the upcoming trimesters, I would love to explore more regarding coding using AI and how to be stronger in prompt writing to make my code cohesive and effective/efficient. I struggled a lot during Digital Famine to keep up with my groupmates, who knew a lot more than I did, and I want to fill that gap. In order to do this, I must learn more about JS and Python, as well as using Copilot and other AI's to help me write code for things like games, algorithms, or other systems.  
+</p>
+</div>
 
-[14] Misunderstood the prompt and didn't read the questions properly.
+<div class="section mcq">
+<h2>🧠 MCQ</h2>
 
-[21] I didn't realize turning right meant turning clockwise and assumed that it would only have to turn once.
+<p><strong>Questions:</strong></p>
 
-[22] This one was tricky for me, I wasn't sure where the *0.5 came from and what it meant. 
-
-[26] The option I selected is wrong because it will only let the robot turn right after the loop, but the robot must turn right each time. A is correct because it enables the robot to turn each time and therefore get to the grey box. 
-
-[27] Putting the code between lines 9 and 10 will allow for the code to not be terminated upon its execution.
-
-[28] This was an unfamiliar topic to me completely. I guess binary is 2^n, n being the number of bits needed, therefore for two hundred, we need 8 because any less won't get you to 200. 
-
-[30] Assumtion is wrong because It assumes that analysis is called just once, when it could be called up to five times due to the different genres.
-
-[31] Both programs can theoretically move the robot to the grey square. 
-
-[33] I misread the question and answered less than when it was greater than even though I meant greater than. 
-
-[36] I wasn't sure about what to call this type of error  but it is because the precision is limited. 
-
-[37] Both code accomplish the same task, just code one will take the average more often since its in the loop therefore it will have more arithmetic.
-
-[40] average can be calculated from two data points. Average increase can be calculated from the data points as well. The proportion is one half, because one of the two kids got their scores improved, therefore it's D. 
-
-[42] Again, I didn't understand what bits are but now I know it's 2^n, therefore since 128-32=96, then it would be 2^96.
-
-[43] Since the algorithm is a polynomial, then it will run in a reasonable time. 
-
-[44] Only 10+7 will cause an overflow error. Since it is four bits, then only up to 15 can be represented. Therefore, since 17>15, it will overflow.
-
-[45] This will evaluate to false when both are different numbers. Putting them together will allow for them to evaluate to true and therefore false.
-
-[46] An algorithm is limited in what it can solve, so it isn't possible for all programs and inputs.
-
-[50] I didn't know what a binary vs linear search was. A linear search checks each item individually until what was being looked for is found, while a binary search divides the interval in half, checking the halfway point, and continues to do so until target is found.
-
-[55] The procedure cannot equal both y and yes therefore it always evaluates to false.
-
-[57] I got confused because I thought indexes start at 0.
-
-[58] Crowdsourcing helps people access the internet, rather than solve computational problems. 
-
-[60] I was on the fence about this one but a call to procedure will shorten the program because it will enable for several lines of code to be removed.
-
-[61] They can only use the data that both students have in common to compare the two.
-
-[64] Cloud computing causes data-security concerns because of how everyone can access each other.
-
-[66] The program will recall the first number that it finds which is smaller than another number, this may not necessarily be the smallest number of the sequence, however. 
+<ul>
+<li>[14] Misunderstood the prompt and didn't read the questions properly.</li>
+<li>[21] I didn't realize turning right meant turning clockwise and assumed that it would only have to turn once.</li>
+<li>[22] This one was tricky for me, I wasn't sure where the *0.5 came from and what it meant.</li>
+<li>[26] The option I selected is wrong because it will only let the robot turn right after the loop, but the robot must turn right each time. A is correct because it enables the robot to turn each time and therefore get to the grey box.</li>
+<li>[27] Putting the code between lines 9 and 10 will allow for the code to not be terminated upon its execution.</li>
+<li>[28] This was an unfamiliar topic to me completely. I guess binary is 2^n, n being the number of bits needed, therefore for two hundred, we need 8 because any less won't get you to 200.</li>
+<li>[30] Assumtion is wrong because It assumes that analysis is called just once, when it could be called up to five times due to the different genres.</li>
+<li>[31] Both programs can theoretically move the robot to the grey square.</li>
+<li>[33] I misread the question and answered less than when it was greater than even though I meant greater than.</li>
+<li>[36] I wasn't sure about what to call this type of error but it is because the precision is limited.</li>
+<li>[37] Both code accomplish the same task, just code one will take the average more often since its in the loop therefore it will have more arithmetic.</li>
+<li>[40] average can be calculated from two data points. Average increase can be calculated from the data points as well. The proportion is one half, because one of the two kids got their scores improved, therefore it's D.</li>
+<li>[42] Again, I didn't understand what bits are but now I know it's 2^n, therefore since 128-32=96, then it would be 2^96.</li>
+<li>[43] Since the algorithm is a polynomial, then it will run in a reasonable time.</li>
+<li>[44] Only 10+7 will cause an overflow error. Since it is four bits, then only up to 15 can be represented. Therefore, since 17>15, it will overflow.</li>
+<li>[45] This will evaluate to false when both are different numbers. Putting them together will allow for them to evaluate to true and therefore false.</li>
+<li>[46] An algorithm is limited in what it can solve, so it isn't possible for all programs and inputs.</li>
+<li>[50] I didn't know what a binary vs linear search was. A linear search checks each item individually until what was being looked for is found, while a binary search divides the interval in half, checking the halfway point, and continues to do so until target is found.</li>
+<li>[55] The procedure cannot equal both y and yes therefore it always evaluates to false.</li>
+<li>[57] I got confused because I thought indexes start at 0.</li>
+<li>[58] Crowdsourcing helps people access the internet, rather than solve computational problems.</li>
+<li>[60] I was on the fence about this one but a call to procedure will shorten the program because it will enable for several lines of code to be removed.</li>
+<li>[61] They can only use the data that both students have in common to compare the two.</li>
+<li>[64] Cloud computing causes data-security concerns because of how everyone can access each other.</li>
+<li>[66] The program will recall the first number that it finds which is smaller than another number, this may not necessarily be the smallest number of the sequence, however.</li>
+</ul>
+</div>
