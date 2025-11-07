@@ -6,32 +6,32 @@ permalink: /blogs/
 ---
 
 <style>
-  /* 🌸 Soft Pink Themed Blog Styling 🌸 */
+  /* 🌸 Pink Aesthetic Blog — Now with Darker Text for Readability 🌸 */
 
   body {
     background: linear-gradient(135deg, #ffe6f2 0%, #fff0f8 50%, #ffeaf7 100%);
     font-family: 'Poppins', sans-serif;
-    color: #1b0213ff;
+    color: #1a0f14; /* Nearly black for strong contrast */
     line-height: 1.8;
     padding: 1rem;
   }
 
   h1, h2, h3 {
-    color: #65153dff;
-    text-shadow: 1px 1px #b77d99ff;
+    color: #a60a4d; /* Deep magenta headers */
+    text-shadow: 1px 1px #fdd8e8;
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.6rem;
     text-align: center;
     margin-top: 2rem;
     font-weight: 700;
   }
 
   h2 {
-    font-size: 1.75rem;
+    font-size: 1.8rem;
     margin-top: 2rem;
-    border-left: 6px solid #ff99cc;
+    border-left: 6px solid #e84a84;
     padding-left: 0.75rem;
   }
 
@@ -42,17 +42,17 @@ permalink: /blogs/
 
   .section {
     background-color: #fff0f6;
-    border: 1px solid #ffb6d9;
+    border: 1px solid #eaa6c9;
     border-radius: 1.5rem;
     padding: 1.5rem 2rem;
     margin: 2rem 0;
-    box-shadow: 0 6px 10px rgba(255, 182, 193, 0.3);
+    box-shadow: 0 6px 10px rgba(186, 62, 111, 0.15);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
   .section:hover {
     transform: translateY(-4px);
-    box-shadow: 0 8px 14px rgba(255, 105, 180, 0.4);
+    box-shadow: 0 8px 14px rgba(186, 62, 111, 0.25);
   }
 
   ul {
@@ -62,7 +62,6 @@ permalink: /blogs/
     border-radius: 1rem;
     border: 1px solid #ffcce6;
     color: #1a0f14; /* Dark text inside lists */
-
   }
 
   li {
@@ -70,54 +69,48 @@ permalink: /blogs/
   }
 
   code {
-    background: #ffe6f2;
+    background: #ffd8eb;
     padding: 0.2rem 0.4rem;
     border-radius: 5px;
-    color: #b30059;
+    color: #7a003a;
   }
 
   strong {
-    color: #b30059;
+    color: #6a002c;
   }
 
   em {
-    color: #d94f9d;
+    color: #a60a4d;
   }
 
   a {
-    color: #ff69b4;
+    color: #c61a65;
     text-decoration: underline dotted;
   }
 
   a:hover {
-    color: #d63384;
+    color: #8b0040;
   }
 
   hr {
     border: none;
     height: 2px;
-    background: linear-gradient(to right, #ffb6d9, #ffe6f2);
+    background: linear-gradient(to right, #e84a84, #ffc6dc);
     margin: 2rem 0;
     border-radius: 2px;
   }
 
   .mcq {
     background: #fff;
-    border: 2px dashed #ffb6d9;
+    border: 2px dashed #eaa6c9;
     padding: 1.5rem;
     border-radius: 1rem;
-  }
-
-  .pink-highlight {
-    background-color: #ffe6f2;
-    padding: 0.25rem 0.4rem;
-    border-radius: 0.4rem;
   }
 </style>
 
 # 🌸 Maya's CSP Adventures 🌸
 
-Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. At the beginning of the trimester, I was quiet and unsure of my skills, afraid to branch out of my comfort zone, and closed off. Now, I am a lot more open to collaboration with others and don't want to do everything on my own. 
+Throughout the first trimester of Computer Science Principles, I learnen about many different and varying aspects of coding and computer science. 
 
 <hr>
 
@@ -160,24 +153,6 @@ Digital Famine was our big project for Night at the Museum. My team and I were r
 Digital famine was a great learning experience in terms of team organization, as well as coding and technical skills. I learned a lot about different files and where they should be placed in. 
 </p>
 </div>
-
-<div class="section">
-<h2>N@TM</h2>
-
-<p>
-Night at the museum was a wonderful experience where we were able to get feedback on what we have been working on for so long! I loved getting to interact and show off our project to people who are interested in it. I appreciated the comments which gave us feedback in addition to anything else, because it will help us in the future to create a better game.   
-</p>
-</div>
-
-
-<div class="section">
-<h2>Looking Ahead</h2>
-
-<p>
-In the upcoming trimesters, I would love to explore more regarding coding using AI and how to be stronger in prompt writing to make my code cohesive and effective/efficient. I struggled a lot during Digital Famine to keep up with my groupmates, who knew a lot more than I did, and I want to fill that gap. In order to do this, I must learn more about JS and Python, as well as using Copilot and other AI's to help me write code for things like games, algorithms, or other systems.  
-</p>
-</div>
-
 
 <div class="section mcq">
 <h2>🧠 MCQ</h2>
